@@ -18,3 +18,14 @@ High School
 Bachelor       
 PhD            
 Diploma        
+
+If you want to make the prediction more accurate feel free to add the following columns
+'job_title'
+'experience_years'
+'education_level'
+'skills_count'
+'industry'
+'company_size'
+'location'
+'remote_work'
+'certifications'
